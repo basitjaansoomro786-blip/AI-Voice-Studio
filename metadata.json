@@ -1,0 +1,6 @@
+{
+  "name": "AI Voice Studio",
+  "description": "Your Voice, Every Language. Modern offline/online AI Text-to-Speech generator for Urdu, Hindi, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
